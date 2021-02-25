@@ -8,8 +8,8 @@
 
 
    <?php
+   
    $badWord = $_GET['badword'];
-   echo $badWord;
 
     ?>
 
@@ -33,15 +33,6 @@
       <h1>La lunghezza della stringa è : <?php echo strlen($paragraph);?> caratteri</h1>
       </div>
 
-         <br>
-         <br>
-
-     <?php
-
-
-     ?>
-     <br>
-     <br>
 
 
   </body>
