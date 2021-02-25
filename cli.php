@@ -7,4 +7,3 @@ var_dump($argv);
 $name = $argv[1];
 echo 'ciaooo' .$name;
 ?>
- <?php echo $name; ?>
